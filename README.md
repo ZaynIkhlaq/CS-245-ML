@@ -1,1 +1,1 @@
-Labs for my ML course at NUST.
+Labs for my Machine Learning Course Fall Semester.
